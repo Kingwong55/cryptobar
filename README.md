@@ -2,7 +2,13 @@
 
 macOS 選單列的虛擬幣即時報價，原生 Swift，零外部依賴。
 
-![icon](docs/icon.png)
+<img src="docs/icon.png" width="128" align="right" alt="icon">
+
+選單列常駐顯示釘選幣種，點開看全部：
+
+![menubar](docs/menubar.png)
+
+![screenshot](docs/screenshot.png)
 
 ## 功能
 
