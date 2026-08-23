@@ -1,0 +1,9 @@
+# 編譯產物
+cryptobar
+makeicon
+*.o
+*.dSYM/
+
+# 圖示中繼檔（由 makeicon.swift 產生）
+*.iconset/
+AppIcon.icns
