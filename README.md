@@ -1,16 +1,19 @@
+<div align="center">
+
+<img src="docs/icon.png" width="104" alt="Cryptobar">
+
 # Cryptobar
 
-macOS 選單列的虛擬幣即時報價，原生 Swift，零外部依賴。
+macOS 選單列的虛擬幣即時報價<br>
+原生 Swift · 零外部依賴 · Binance / OKX 可切換
 
-<img src="docs/icon.png" width="128" align="right" alt="icon">
+<img src="docs/menubar.png" width="560" alt="選單列">
 
-選單列常駐顯示釘選幣種，點開看全部：
-
-![menubar](docs/menubar.png)
-
-![screenshot](docs/screenshot.png)
+</div>
 
 ## 功能
+
+<img src="docs/screenshot.png" width="270" align="right" alt="展開的選單">
 
 - **即時報價**：預設 15 秒刷新，選單列顯示釘選的幣種
 - **交易所可切換**：Binance / OKX（兩家的價格與 24h 漲跌會有差異）
@@ -21,6 +24,8 @@ macOS 選單列的虛擬幣即時報價，原生 Swift，零外部依賴。
 - **開機自啟**：寫入使用者層級的 LaunchAgent，可隨時取消
 
 漲跌用顏色 + ▲▼ 雙重標示，不依賴顏色也讀得懂。
+
+<br clear="all">
 
 ## 建置
 
